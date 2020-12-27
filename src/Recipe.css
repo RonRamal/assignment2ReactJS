@@ -1,0 +1,26 @@
+
+.Recipe-div{
+    width: 18rem;
+    height: 19rem;
+    text-align: center;
+    border: solid black;
+    margin: 10px;
+}
+
+.Recipe-div img{
+
+    height: 150px;
+    width: 200px;
+}
+
+.RecipesDiv{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    padding: 2%;
+    justify-content: center;
+}
+
+h3,h1{
+  
+    text-align: center;
+}
